@@ -1,0 +1,3 @@
+rootProject.name = 'woodview_fsm_3847'
+
+include ':app'
